@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="DELETE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-05 01:03:23</sys_created_on>
+        <sys_id>9d97f2819713c110c9b5f8b3f153af68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9898648d97d78110c9b5f8b3f153af70</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_9d97f2819713c110c9b5f8b3f153af68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-05 01:03:23</sys_updated_on>
+        <test display_value="When needed - Past">9898648d97d78110c9b5f8b3f153af70</test>
+        <test_suite display_value="When needed Field NeedIt App">9b043e8d97df8110c9b5f8b3f153af32</test_suite>
+    </sys_atf_test_suite_test>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>66315787db5d01509a4dcac5059619f4</instance_id>
+        <instance_name>dev123670</instance_name>
+        <name>sys_atf_test_suite_test_9d97f2819713c110c9b5f8b3f153af68</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test"><sys_atf_test_suite_test action="INSERT_OR_UPDATE"><abort_on_failure>false</abort_on_failure><order/><sys_class_name>sys_atf_test_suite_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-05 01:03:23</sys_created_on><sys_id>9d97f2819713c110c9b5f8b3f153af68</sys_id><sys_mod_count>0</sys_mod_count><sys_name>9898648d97d78110c9b5f8b3f153af70</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sys_atf_test_suite_test_9d97f2819713c110c9b5f8b3f153af68</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-05 01:03:23</sys_updated_on><test display_value="When needed - Past">9898648d97d78110c9b5f8b3f153af70</test><test_suite display_value="When needed Field NeedIt App">9b043e8d97df8110c9b5f8b3f153af32</test_suite></sys_atf_test_suite_test></record_update>]]></payload>
+        <payload_hash>1557377625</payload_hash>
+        <record_name>9898648d97d78110c9b5f8b3f153af70</record_name>
+        <reverted_from/>
+        <source>20776074975b4110c9b5f8b3f153af27</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-05 01:03:24</sys_created_on>
+        <sys_id>05a73e819713c110c9b5f8b3f153aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18091be376a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-05 01:03:24</sys_updated_on>
+        <type>Test Suite Test</type>
+        <update_guid>4da73e81d613c110a031098d7fd3a3f3</update_guid>
+        <update_guid_history>4da73e81d613c110a031098d7fd3a3f3:1557377625</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-05 01:04:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_suite_test">sys_atf_test_suite_test</sys_db_object>
+        <sys_id>078af5b96e4a46c0b83a934d9d242400</sys_id>
+        <sys_metadata>9d97f2819713c110c9b5f8b3f153af68</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9898648d97d78110c9b5f8b3f153af70</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sys_atf_test_suite_test_9d97f2819713c110c9b5f8b3f153af68</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_suite_test_9d97f2819713c110c9b5f8b3f153af68">05a73e819713c110c9b5f8b3f153aff4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-05 01:04:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
